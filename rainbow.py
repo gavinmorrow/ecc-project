@@ -1,3 +1,6 @@
+# Source: https://sense-emu.readthedocs.io/en/v1.1/examples.html#rainbow
+# Slightly modified to make use of the sensors
+
 from colorsys import hsv_to_rgb
 from time import sleep
 from sense_emu import SenseHat
